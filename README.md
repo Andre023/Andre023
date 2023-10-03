@@ -24,5 +24,3 @@ Sou estudante de **Sistemas de Informação**. Tenho experiência com diversas t
 ## 📬 Contatos
 - 📧 Email: [andrelucas25111@gmail.com](mailto:andrelucas25111@gmail.com)
 - 🌟 GitHub: [github.com/Andre023](https://github.com/Andre023)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre023&layout=donut)](https://github.com/Andre023/github-readme-stats)
