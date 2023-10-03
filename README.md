@@ -21,4 +21,4 @@ Sou estudante de **Sistemas de Informação**. Tenho experiência com diversas t
 - 📧 Email: [seuemail@email.com](mailto:andrelucas25111@gmail.com)
 - 🌟 GitHub: [github.com/seuusername](https://github.com/Andre023)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
