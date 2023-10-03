@@ -26,4 +26,3 @@ Sou estudante de **Sistemas de Informação**. Tenho experiência com diversas t
 - 🌟 GitHub: [github.com/Andre023](https://github.com/Andre023)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre023&layout=donut)](https://github.com/Andre023/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre023&langs_count=8)
