@@ -18,7 +18,7 @@ Sou estudante de **Sistemas de Informação**. Tenho experiência com diversas t
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ## 📬 Contatos
-- 📧 Email: [seuemail@email.com](mailto:andrelucas25111@gmail.com)
-- 🌟 GitHub: [github.com/seuusername](https://github.com/Andre023)
+- 📧 Email: [andrelucas25111@gmail.com](mailto:andrelucas25111@gmail.com)
+- 🌟 GitHub: [github.com/Andre023](https://github.com/Andre023)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
