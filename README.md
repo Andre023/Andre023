@@ -28,3 +28,4 @@ Sou estudante de **Sistemas de Informação**. Tenho experiência com diversas t
 ## 📬 Contatos
 - 📧 Email: [andrelucas25111@gmail.com](mailto:andrelucas25111@gmail.com)
 - 🌟 GitHub: [github.com/Andre023](https://github.com/Andre023)
+- 💼 LinkedIn: [linkedin.com/in/andrésantos-125242218](https://www.linkedin.com/in/andr%C3%A9-santos-125242218/)
