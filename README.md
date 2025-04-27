@@ -1,15 +1,16 @@
 # 👋 Olá, meu nome é André 👨‍💻
 
-## 🚀 Sobre Mim
-
 Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia. Tenho experiência prática em diversas linguagens, frameworks e ferramentas, sempre buscando evoluir e contribuir para projetos de impacto.
 
 ### 🔭 Atividades Recentes
 - 🌱 Atualmente focado em aprimorar habilidades **Full-Stack**.
 - 🎯 Objetivo: Contribuir ativamente para projetos **open-source**.
 - 💼 Aberto a novas oportunidades e grandes desafios profissionais.
-
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre023&layout=compact&theme=tokyonight&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre023&show_icons=true&theme=tokyonight)
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -22,16 +23,12 @@ Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia. Tenho
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
----
-
 ### 🖥️ Frameworks
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
-
----
 
 ### 🧰 Toolkit
 <div style="display: inline_block"><br>
@@ -41,10 +38,9 @@ Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia. Tenho
   <img align="center" alt="Vite" height="30" width="40" src="https://camo.githubusercontent.com/237e20be5fcfd8f7133f43d126fc49fb29dec7631679938bdd2ecb8cbb2a610e/68747470733a2f2f766974652e6465762f6c6f676f2e737667">
   <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Matplotlib" height="30" width="40" src="https://camo.githubusercontent.com/ddbcde791e0b88ed57aca308e6b296e886ca67d5570353c08b551ad6674aa1a6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6d6174706c6f746c69622f6d6174706c6f746c69622d6f726967696e616c2d776f72646d61726b2e737667">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
-
----
 
 ### 🗄️ Databases
 <div style="display: inline_block"><br>
@@ -55,15 +51,6 @@ Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia. Tenho
 </div>
 
 ---
-
-### ⚙️ DevOps
-<div style="display: inline_block"><br>
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-
----
-
 ## 📬 Contatos
 - 📧 Email: [andrelucas25111@gmail.com](mailto:andrelucas25111@gmail.com)
-- 🌟 GitHub: [github.com/Andre023](https://github.com/Andre023)
 - 💼 LinkedIn: [linkedin.com/in/andrésantos-125242218](https://www.linkedin.com/in/andr%C3%A9-santos-125242218/)
