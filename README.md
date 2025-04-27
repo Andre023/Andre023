@@ -8,9 +8,7 @@ Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia. Tenho
 - 💼 Aberto a novas oportunidades e grandes desafios profissionais.
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre023&layout=compact&theme=tokyonight&langs_count=10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre023&show_icons=true&theme=tokyonight)
-
 
 ## 🛠️ Tecnologias & Ferramentas
 
